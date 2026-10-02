@@ -1,0 +1,6 @@
+{
+  "name": "Business Actuality TV - Le Média de l'Afrique qui Gagne",
+  "description": "Plateforme numérique d'information, d'analyse et de valorisation des initiatives africaines : économie, corridors logistiques, Côte d'Ivoire, vidéos et enquêtes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
